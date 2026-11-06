@@ -1,0 +1,126 @@
+[0:19.7] One,
+[0:19.7] Inventors of the airplane.
+[0:23.7] Now listen to the first part of the talk about the inventors of the airplane.
+[0:30.0] As you listen to the talk, write down the missing information in the notes below.
+[0:43.2] The first successful trip men made through the air was in a balloon.
+[0:47.2] The next step was to make the balloon go
+[0:50.6] Where they wanted it to go.
+[0:53.4] This they did by adding motors and propellers.
+[0:58.5] The result was the airship.
+[1:01.8] But still men were not satisfied.
+[1:05.3] They wanted to build a machine that would fly through the air on wings.
+[1:11.7] Such a machine is called an airplane.
+[1:16.6] Many people in Europe and in America worked on this concept.
+[1:22.6] The first inventors to build an airplane in which a man could fly were Wilbur and Orville Wright.
+[1:31.8] Wilbur was born in 1867 near Milville, Indiana.
+[1:38.2] Orville Wright was born 4 years later.
+[1:42.4] When the two brothers grew up, they built up a successful printing business and soon opened a bicycle shop.
+[1:51.3] One day, Wilbur read of a man in Germany
+[1:54.7] Who had fallen to his death while flying in a glider.
+[1:59.8] A glider is really a kite that is large enough to carry a man.
+[2:02.8] The idea of flying in a glider immediately interested Wilbur Wright.
+[2:11.2] He told Orville about it.
+[2:11.2] Then he began looking through the books in his father's library.
+[2:18.6] One of the books which he found helpful was a book on birds.
+[2:24.0] Man was imitating the birds
+[2:26.2] When he was attempting to fly.
+[2:29.2] The two brothers carefully watched and studied the flight of birds.
+[2:31.6] They noticed how some birds could coast through the air for long periods of time.
+[2:40.6] They found that other people both in America and in Europe had been trying to fly.
+[2:47.9] These people had built gliders too.
+[2:52.2] There was one question no one had answered.
+[2:54.6] That was how to balance the glider when it began to dip forward or backward or to one side.
+[3:04.8] The Wright brothers, after long study, decided to build a pair of smaller wings before the wings of their glider.
+[3:14.3] By turning these smaller wings up or down, the glider would not dip forward or backward too far.
+[3:23.4] For four years, the Wright brothers studied and worked on this problem.
+[3:29.3] At last, they were ready to build a glider of their own.
+[3:34.6] In the fall of the year 1900, the Wright brothers built their first glider at Kittyhawk and the test flight was a success.
+[3:54.4] # Exercise two
+[3:54.4] Inventors of the airplane.
+[3:54.4] Now listen to the second part of the talk about the inventors of the airplane and fill in
+[4:03.8] The missing information in the notes below.
+[4:14.2] The Wright brothers started to improve their glider, paying particular attention to its controls and to the shape of the wings.
+[4:21.8] The new glider was longer and had a tail, but they wanted to add power to their glider.
+[4:29.9] The following year, their bicycle shop seemed more like an airplane shop.
+[4:36.3] Orville designed an engine which they built and mounted on the glider to produce flying power.
+[4:44.8] They also experimented with various designs for the allimportant propellers.
+[4:53.1] It was December when the Wright brothers plane was ready for the flight.
+[4:59.3] Orville climbed into the plane and started the motor.
+[5:04.8] Wilbur was holding the end of one of the wings to keep the plane level.
+[5:11.3] Slowly the plane started forward.
+[5:15.5] It gained speed and rose into the air.
+[5:20.1] It moved swiftly upward, then downward, then upward again.
+[5:26.5] It was not a smooth ride, but it was successful.
+[5:31.1] The plane came down undamaged, 120 ft from where it had started.
+[5:39.7] Three more flights were made that day.
+[5:43.4] The longest was 852 ft and the time in the air was 59 seconds.
+[5:52.7] It was not a remarkable record, but it showed the Wright brothers that their plane was successful.
+[6:01.1] Man had actually flown in an airplane.
+[6:05.9] This was the beginning of the importance of the airplane.
+[6:10.7] In 1912, after a few years of success, Wilbur died of typhoid fever when he was only 45.
+[6:21.5] In 1943, exactly 40 years after the Wright brothers first flights, Orville agreed to give their first airplane to the Smithsonian Institution
+[6:34.9] In Washington, D.C. on January 30th, 1948.
+[6:42.4] Orville died at the age of 77 after a short illness.
+[6:48.2] The Wright brothers will never be forgotten.
+[6:50.4] The names of both brothers are firmly and forever linked in the history of aviation.
+[7:45.4] One. Inventors of the airplane.
+[7:54.7] The first successful trip men made through the air was in a balloon.
+[7:58.6] The next step was to make the balloon go
+[8:02.0] Where they wanted it to go.
+[8:05.0] This they did by adding motors and propellers.
+[8:09.9] The result was the airship.
+[8:13.4] But still men were not satisfied.
+[8:13.4] They wanted to build a machine that would fly through the air on wings.
+[8:23.1] Such a machine is called an airplane.
+[8:28.1] Many people in Europe and in America worked on this concept.
+[8:34.0] The first inventors to build an airplane in which a man could fly were Wilbur and Orville Wright.
+[8:43.3] Wilbur was born in 1867 near Milville, Indiana.
+[8:46.8] Orville Wright was born 4 years later.
+[8:53.9] When the two brothers grew up, they built up a successful printing business and soon opened a bicycle shop.
+[9:02.7] One day, Wilbur read of a man in Germany
+[9:06.2] Who had fallen to his death while flying in a glider.
+[9:11.3] A glider is really a kite that is large enough to carry a man.
+[9:16.9] The idea of flying in a glider immediately interested Wilbur Wright.
+[9:22.6] He told Orville about it.
+[9:22.6] Then he began looking through the books in his father's library.
+[9:30.1] One of the books which he found helpful was a book on birds.
+[9:35.4] Man was imitating the birds when he was attempting to fly.
+[9:40.7] The two brothers carefully watched and studied the flight of birds.
+[9:43.1] They noticed how some birds could coast through the air for long periods of time.
+[9:52.1] They found that other people both in America and in Europe had been trying to fly.
+[9:59.4] These people had built gliders too.
+[10:03.7] There was one question no one had answered.
+[10:06.2] That was how to balance the glider when it began to dip forward or backward or to one side.
+[10:16.3] The Wright brothers, after long study, decided to build a pair of smaller wings before the wings of their glider.
+[10:25.8] By turning these smaller wings up or down, the glider would not dip forward or backward too far.
+[10:34.9] For four years, the Wright brothers studied and worked on this problem.
+[10:37.6] At last, they were ready to build a glider of their own.
+[10:46.1] In the fall of the year 1900, the Wright brothers built their first glider at Kittyhawk and the test flight was a success.
+[11:06.4] # Exercise two
+[11:06.4] Inventors of the airplane.
+[11:14.9] The Wright brothers started to improve their glider, paying particular attention to its controls and to the shape of the wings.
+[11:20.6] The new glider was longer and had a tail, but they wanted to add power to their glider.
+[11:30.6] The following year, their bicycle shop seemed more like an airplane shop.
+[11:37.0] Orville designed an engine which they built and mounted on the glider to produce flying power.
+[11:45.5] They also experimented with various designs for the allimportant propellers.
+[11:53.8] It was December when the Wright brothers plane was ready for the flight.
+[12:00.0] Orville climbed into the plane and started the motor.
+[12:05.5] Wilbur was holding the end of one of the wings to keep the plane level.
+[12:12.0] Slowly, the plane started forward.
+[12:16.2] It gained speed and rose into the air.
+[12:20.8] It moved swiftly upward, then downward, then upward again.
+[12:27.1] It was not a smooth ride, but it was successful.
+[12:31.8] The plane came down undamaged 120 ft from where it had started.
+[12:40.3] Three more flights were made that day.
+[12:44.2] The longest was 852 ft and the time in the air was 59 seconds.
+[12:53.4] It was not a remarkable record, but it showed the Wright brothers that their plane was successful.
+[13:01.8] Man had actually flown in an airplane.
+[13:06.6] This was the beginning of the importance of the airplane.
+[13:11.4] In 1912, after a few years of success, Wilbur died of typhoid fever when he was only 45.
+[13:22.2] In 1943, exactly 40 years after the Wright brothers first flights, Orville agreed to give their first airplane to the
+[13:33.5] Smithsonian Institution in Washington,
+[13:36.7] D.C.
+[13:39.0] On January 30th, 1948.
+[13:43.0] Orville died at the age of 77 after a short illness.
+[13:49.0] The Wright brothers will never be forgotten.
+[13:51.1] The names of both brothers are firmly and forever linked in the history of aviation

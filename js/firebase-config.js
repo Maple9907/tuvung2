@@ -1,0 +1,2 @@
+// Config Firebase của bạn (public, an toàn – bảo mật nằm ở database.rules.json)
+export const firebaseConfig={apiKey:"AIzaSyDV38H4naMBsdLaanwsmqLOfFiSOed2mWo",authDomain:"my-game1-7ed99.firebaseapp.com",databaseURL:"https://my-game1-7ed99-default-rtdb.asia-southeast1.firebasedatabase.app",projectId:"my-game1-7ed99",storageBucket:"my-game1-7ed99.firebasestorage.app",messagingSenderId:"679780773541",appId:"1:679780773541:web:835f78df33f19b8995a74c"};

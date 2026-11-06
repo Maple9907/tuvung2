@@ -1,0 +1,151 @@
+[0:20.8] # Exercise one
+[0:20.8] Health problems. Listen to the conversation and fill in the missing information in the notes below.
+[0:33.4] Hi, Ellen. What's the matter with you?
+[0:33.4] I think I've got a terrible cold.
+[0:33.4] My nose is stuffed up and I've got a sore throat.
+[0:40.0] Oh, that's too bad.
+[0:40.0] You should be at home in bed.
+[0:42.6] It's really important to get a good rest.
+[0:46.5] Yeah, you're right.
+[0:48.6] And have you taken anything for it?
+[0:50.6] No, I haven't.
+[0:52.6] Well, you should take some vitamin C.
+[0:55.2] And it's also a good idea to drink lots of liquids.
+[0:58.8] That's a good suggestion.
+[0:58.8] I have a bottle of vitamin C at home.
+[1:03.8] Have you seen a doctor?
+[1:05.4] Not yet.
+[1:07.2] Well, you'd better see a doctor first and then go back home to rest.
+[1:12.2] Yeah, I'll do it right now.
+[1:14.9] Ellen, it's also helpful to cook chicken soup with some garlic in it and drink a cup every half an hour.
+[1:20.2] It really works. Oh, chicken stock for a cold.
+[1:23.1] Okay, I'll try it.
+[1:27.4] Thanks. I hope you recover soon.
+[1:43.0] # Exercise two
+[1:43.0] In a camera shop.
+[1:43.0] Listen to the conversation and fill in the missing information in the notes below.
+[1:54.1] Good morning. Can I help you?
+[1:54.1] Yes, I want to buy a camera.
+[1:54.1] What kind do you recommend?
+[1:58.5] Well, it all depends.
+[1:58.5] We have many kinds of cameras here.
+[2:01.2] How much money do you want to spend?
+[2:05.0] I want something cheap and easy to handle.
+[2:08.9] Are you an experienced photographer?
+[2:11.6] No, I've had no experience at all.
+[2:15.0] Here's a camera that would suit you very well.
+[2:16.9] It's got a very good lens and it's all automatic, so it's very easy to use.
+[2:23.8] Just press one button and it's done.
+[2:27.0] How much does it cost?
+[2:29.4] It's only £45.
+[2:31.8] Can I try?
+[2:32.9] Of course. Here you are well, I think the price is reasonable and I like that it is automatic, but I
+[2:40.0] Don't like the color.
+[2:40.0] Do you have any other color?
+[2:44.0] Yes. How about this yellow one?
+[2:44.0] It looks better. Is it the same price?
+[2:49.5] Yes.
+[2:50.5] All right. I will take this yellow one.
+[2:50.5] Here is £50.
+[2:54.9] Here is your change.
+[3:08.2] # Exercise three
+[3:08.2] At the reception desk in a hotel.
+[3:10.0] Listen to the conversation and fill in the missing information.
+[3:20.2] Good evening, sir.
+[3:20.2] Good evening. My name is Arthur Collins.
+[3:23.4] I believe you have a room reserved for me.
+[3:26.2] Just a moment, Mr.
+[3:26.2] Collins. Let me see.
+[3:29.2] Collins. Yes, Mr. Collins.
+[3:29.2] You booked a single room 3 days ago.
+[3:32.6] Is that right?
+[3:36.2] Yes, that's right.
+[3:37.5] Mr. Collins, your room number is 405 on the 4th floor.
+[3:41.6] Would you fill in this form, please?
+[3:46.3] Certainly.
+[3:48.1] How long do you intend to stay in the hotel, Mr.
+[3:50.0] Collins?
+[3:51.9] Let me see. Today is Monday and probably I'm going to leave on Friday morning.
+[3:59.6] On Friday morning, I see.
+[4:02.2] Oh, uh, excuse me.
+[4:02.2] Where shall I put my passport number?
+[4:06.0] Just at the bottom.
+[4:06.0] That's right. Thank. You.
+[4:10.4] Oh, would you please wake me up at 7:10 in the morning, please?
+[4:14.6] 10 7 certainly. Porter, please take Mr.
+[4:19.2] Collins suitcase to his room.
+[4:19.2] Mr. Collins, please follow him.
+[4:24.2] Thank you.
+[4:24.8] You're welcome.
+[5:33.7] Hi, Ellen. What's the matter with you?
+[5:33.7] I think I've got a terrible cold.
+[5:33.7] My nose is stuffed up and I've got a sore throat.
+[5:40.1] Oh, that's too bad.
+[5:40.1] You should be at home in bed.
+[5:42.6] It's really important to get a good rest.
+[5:46.5] Yeah, you're right.
+[5:48.6] And have you taken anything for it?
+[5:50.6] No, I haven't.
+[5:52.6] Well, you should take some vitamin C.
+[5:55.2] And it's also a good idea to drink lots of liquids.
+[5:58.8] That's a good suggestion.
+[5:58.8] I have a bottle of vitamin C at home.
+[6:03.8] Have you seen a doctor?
+[6:05.4] Not yet.
+[6:07.2] Well, you'd better see a doctor first and then go back home to rest.
+[6:12.2] Yeah, I'll do it right now.
+[6:14.9] Ellen, it's also helpful to cook chicken soup with some garlic in it and drink a cup every half an hour.
+[6:20.2] It really works.
+[6:23.2] Oh, chicken stock for a cold.
+[6:23.2] Okay, I'll try it.
+[6:27.4] Thanks. I hope you recover soon.
+[6:45.5] Good morning. Can I help you?
+[6:45.5] Yes, I want to buy a camera.
+[6:45.5] What kind do you recommend?
+[6:49.9] Well, it all depends.
+[6:49.9] We have many kinds of cameras here.
+[6:52.6] How much money do you want to spend?
+[6:55.4] I want something cheap and easy to handle.
+[7:00.3] Are you an experienced photographer?
+[7:03.0] No, I've had no experience at all.
+[7:06.4] Here's a camera that would suit you very well.
+[7:08.3] It's got a very good lens and it's all automatic.
+[7:11.3] So, it's very easy to use.
+[7:14.1] Just press one button and it's done.
+[7:18.5] How much does it cost?
+[7:20.8] It's only £45.
+[7:23.2] Can I try?
+[7:24.3] Of course. Here you are well, I think the price is reasonable and I like that it is automatic, but I
+[7:31.4] Don't like the color.
+[7:31.4] Do you have any other color?
+[7:35.4] Yes. How about this yellow one?
+[7:37.8] It looks better. Is it the same price?
+[7:41.0] Yes.
+[7:41.8] All right, I will take this yellow one.
+[7:44.3] Here is £50. Here is your change.
+[8:01.6] Good evening, sir.
+[8:01.6] Good evening. My name is Arthur Collins.
+[8:04.8] I believe you have a room reserved for me.
+[8:07.5] Just a moment, Mr.
+[8:07.5] Collins. Let me see.
+[8:10.5] Collins. Yes, Mr. Collins.
+[8:10.5] You booked a single room 3 days ago.
+[8:13.8] Is that right?
+[8:17.5] Yes, that's right.
+[8:18.9] Mr. Collins, your room number is 405 on the fourth floor.
+[8:23.0] Would you fill in this form, please?
+[8:27.6] Certainly.
+[8:29.4] How long do you intend to stay in the hotel, Mr.
+[8:31.4] Collins?
+[8:33.3] Let me see. Today is Monday and probably I'm going to leave on Friday morning.
+[8:38.1] On Friday morning. I see.
+[8:43.4] Oh, uh, excuse me.
+[8:43.4] Where shall I put my passport number?
+[8:47.4] Just at the bottom.
+[8:47.4] That's right. Thank. You.
+[8:51.8] Oh, would you please wake me up at 7:10 in the morning, please?
+[8:55.9] 10 7 certainly. Porter, please take Mr.
+[9:00.6] Collins suitcase to his room.
+[9:00.6] Mr. Collins, please follow him.
+[9:05.5] Thank you.
+[9:06.2] You're welcome

@@ -1,0 +1,667 @@
+[0:00.0] # Exercise one
+[0:04.2] Good morning. I'd like to open a bank.
+[0:06.3] Account, please.
+[0:07.2] Certainly. If you'd like to take a seat.
+[0:09.4] I'll just get some details from you.
+[0:09.4] It. Won't take long.
+[0:13.0] Thanks.
+[0:13.8] Is it a current account or a deposit.
+[0:16.4] Account? You wanted.
+[0:17.8] A current account.
+[0:19.2] Right? I've got the application from here.
+[0:22.3] Then we have different.
+[0:24.6] Types. I see you've got our leaflet.
+[0:26.8] There. I decided on the one called.
+[0:29.0] Select.
+[0:30.1] Right, that's fine. So, first of all.
+[0:32.3] Can I have your full name, please?
+[0:34.5] Yes, it's Peter Hennis.
+[0:34.5] That's P I E T E.
+[0:39.1] R.
+[0:39.8] Is it H E N E S?
+[0:42.5] Uh, only one N, actually.
+[0:42.5] It's a less. Common spelling of the name.
+[0:46.5] Oh, right. Okay. And what's your date of birth, please?
+[0:51.0] The 27th of the 1st, 1973.
+[0:55.0] Right. And will this be a joint account?
+[0:58.3] No, just myself.
+[1:00.2] Okay, fine. And where are you living.
+[1:02.5] Mr. Henny's?
+[1:04.0] 15 Riverside.
+[1:05.8] Is that all one word?
+[1:07.3] Yes.
+[1:08.2] Exit?
+[1:09.2] Yes.
+[1:10.6] How long have you been at your present.
+[1:12.1] Address? Uh, is it more than 2 years?
+[1:15.2] Uh, just two weeks, actually.
+[1:15.2] I only. Arrived in the country a month ago.
+[1:17.8] I'm. From Holland.
+[1:20.8] Oh, that's fine. But we normally ask for a previous address in that case.
+[1:25.3] Oh yes. Well, it's Realsdorf 2.
+[1:25.3] That's R. I E L S D O R F to UTRE.
+[1:36.9] Holland.
+[1:38.4] Okay. Thank you. Do you have a daytime.
+[1:41.2] Telephone number?
+[1:42.6] Yes. I think the number at my office is 606295.
+[1:48.6] Um, just a minute.
+[1:48.6] I'd better check. Oh, no.
+[1:51.8] Sorry. 616.
+[1:54.8] I'm not used to it yet.
+[1:54.8] Would you like. My home number, too?
+[1:58.7] Yes, please.
+[1:59.8] It's 796 431.
+[2:03.9] Are they both local numbers?
+[2:06.1] Yes.
+[2:08.8] Right. And your occupation?
+[2:12.3] Well, I'm in Britain as a project.
+[2:14.2] Manager, but that's not my main job.
+[2:14.2] I'm. An engineer by profession.
+[2:18.7] I see. I think I'll put that then.
+[2:18.7] It's. Shorter. Now, we usually ask.
+[2:23.5] For a piece of information which we can use to check your identity for security.
+[2:28.1] Reasons. You know, if you phone us.
+[2:31.1] Like um my wife's first name.
+[2:33.6] Mother's might be better.
+[2:33.6] It's less. Likely to be known.
+[2:37.0] Okay. Hers is City.
+[2:39.2] City?
+[2:40.0] Yes. S I TI.
+[2:40.0] It's Indonesian.
+[2:44.2] Fine. And how much would you like to open your account with?
+[2:46.4] We usually ask. For a minimum sum of £50.
+[2:48.4] That's about €75.
+[2:53.0] Well, I'm going to transfer €2,000 from my Dutch account.
+[2:55.8] Uh, just till I get.
+[2:58.0] Paid. In fact, I wanted to ask you about that.
+[3:01.0] What's the best way to do it?
+[3:03.4] It depends which bank you're with it's the Francen Bank in Utret.
+[3:08.2] Okay, fine. I'll check that in a minute.
+[3:10.6] If we have links with them, we can do a direct transfer, but it's not a big.
+[3:14.1] Problem either way. Um, let's see.
+[3:14.1] How often would you like to receive.
+[3:19.0] Statements?
+[3:20.2] Uh, I haven't really thought.
+[3:20.2] Um, what's. The usual thing?
+[3:23.8] It's up to you.
+[3:23.8] Some people like them.
+[3:25.5] Weekly.
+[3:26.4] Oh, no. That's too often.
+[3:26.4] Can I have. Them sent once a month?
+[3:31.1] Yes, that's fine. Is there anything else?
+[3:34.3] I was thinking of registering for your internet service at some stage.
+[3:38.2] Oh, yes. Would you like me to send you.
+[3:40.4] Information about that?
+[3:42.1] Please. Yes. And would you like to receive information about the bank's.
+[3:45.3] Other services, insurance, loans.
+[3:48.4] Anything like that?
+[3:50.2] I don't think so.
+[3:50.2] Thanks.
+[3:51.8] That's okay then. And one last thing, if you agree
+[3:59.7] # Exercise two
+[4:03.3] Welcome everybody to the lovely house.
+[4:05.9] And gardens of Rosewood, once the home.
+[4:08.6] Of the famous writer Sebastian George.
+[4:11.8] He bought the house in 1902, although he.
+[4:15.1] Had first seen it 2 years earlier.
+[4:15.1] At that time, the owners let it out to a Tenant because George was too slow.
+[4:22.1] Making up his mind to buy it.
+[4:22.1] When it. Came back on the market, there was no.
+[4:26.6] Hesitation, and he bought it immediately.
+[4:29.2] For £9,300 even though the house had no bathroom.
+[4:34.6] No running water upstairs, and no.
+[4:37.4] Electricity.
+[4:39.5] When he came here, he'd been married for 10 years.
+[4:41.7] During that time, he'd become.
+[4:44.6] One of the most famous writers in the English-speaking world.
+[4:46.7] His professional. Success was enormous, but his personal.
+[4:52.3] Life wasn't as successful.
+[4:52.3] He was no. Longer on speaking terms with his brother and had been devastated by the death at the age of seven of his elder.
+[5:02.5] Daughter, Josephine.
+[5:05.0] Moving to Rosewood allowed the family to start a new life.
+[5:07.3] George regarded. Rosewood as a pure example of a traditional country house of this part.
+[5:14.2] Of England and did some of his most.
+[5:16.6] Successful writing here.
+[5:19.4] The house and its grounds became the family haven and their escape to privacy.
+[5:25.0] And quiet. The walls and the Mullion windows were built of the local.
+[5:30.0] Sandstone. The tiles on the roofs and the bricks of the chimney stack were baked from local clay.
+[5:35.0] And the wooden. Structures inside came from oak trees.
+[5:40.4] Which grow around here.
+[5:43.9] Now, please look at the map I've given.
+[5:46.2] You of the house and gardens.
+[5:46.2] We're here. At the information center.
+[5:50.2] Follow the path marked with the arrow and the first.
+[5:56.4] Area you come to is the orchard on your left.
+[5:59.3] As you go further down the path.
+[6:02.8] There's the kitchen garden on the right.
+[6:05.3] And as you go around the first sharp.
+[6:07.5] Corner, you will find to your left an area where different types of pear tree.
+[6:12.5] Have been planted, as well as some.
+[6:14.7] Lovely flowers. And this is known as pear alley, designed by George himself.
+[6:22.4] Next to this is the greenhouse where.
+[6:25.3] Some exotic plants and fruits are grown.
+[6:28.2] Follow the path round the second corner.
+[6:30.7] And on your right you will see the entrance to the Malbury garden with its 500year-old tree.
+[6:38.6] Past the Malbury Garden, follow the path.
+[6:41.4] Until you reach the front of the house.
+[6:44.2] I suggest you spend a good hour.
+[6:46.1] Wandering around this lovely building.
+[6:46.1] A guide takes visitor groups round every 2.
+[6:51.4] Hours.
+[6:53.0] If you would like to purchase any of George's books or other souvenirs, then.
+[6:57.6] Leave the house by the side entrance.
+[7:00.0] Where you will find our shop, which is situated between the house and the garage, which contains the magnificent.
+[7:06.9] Old Rolls-Royce car, which used to belong to George.
+[7:09.4] I expect by this time.
+[7:13.1] You may also be in need of a rest and some refreshment.
+[7:15.6] Most visitors are, so.
+[7:19.3] Why don't you visit the T-room on the far side of the garage.
+[7:24.7] If you have time, there is a lovely walk.
+[7:27.4] Down towards the river Dudwell.
+[7:27.4] For me. This is the best part of the estate.
+[7:33.4] This isn't on the map, but it is all.
+[7:36.0] Clearly signposted. You cross the field.
+[7:39.2] Which spreads along the banks of the river.
+[7:41.1] In spring, this area is well.
+[7:44.2] Worth a visit. Spend a minute or two.
+[7:46.8] Watching the water pass by underneath as you cross the foot bridge and then.
+[7:51.6] Continue along the river walk through.
+[7:53.4] The woodland. On a hot summer's day, the trees along this path provide welcome.
+[7:58.9] Shade. Eventually, you come to the Watermill, which used to provide the electricity for the house.
+[8:03.4] Only about 4. Hours every evening in George's time.
+[8:09.8] And finally, for those of you who would like to see stunning views of the surrounding countryside and who are a
+[8:16.3] Little bit more energetic, when you.
+[8:18.4] Return from the mill, take the first.
+[8:20.4] Turning on your left and climb.
+[8:22.4] Up to the viewpoint.
+[8:22.4] You. Won't regret it.
+[8:24.3] Enjoy your visit.
+[8:30.6] # Exercise three
+[8:34.2] Lucy. We really need to get working on this marketing assignment.
+[8:36.5] We've only. Got five weeks left to the end of term.
+[8:40.4] To design it, carry it out, and then.
+[8:42.6] Write up the results.
+[8:43.9] Sure. Well, let's get started right now.
+[8:46.2] Let's go over the instructions.
+[8:48.6] What exactly do we have to do?
+[8:50.2] Well, it says here we have to look at one area of the entertainment industry.
+[8:55.1] There's a list of the different types.
+[8:56.8] What are they?
+[8:58.1] Music, cinema, theater, sport, and eating out.
+[9:01.8] Is that all?
+[9:02.8] Looks like it. So we choose one branch.
+[9:05.2] Of the industry and then we look at how two different groups of people use it.
+[9:09.2] Is that right?
+[9:10.0] Yes.
+[9:11.1] And do we have to use any particular.
+[9:13.0] Method to get our data?
+[9:13.0] Can we mail out.
+[9:15.4] A questionnaire or do facetoface.
+[9:17.3] Interviews or maybe even observations?
+[9:19.8] Well, actually it looks like we don't.
+[9:22.0] Have a choice. We have to do telephone.
+[9:24.2] Interviews.
+[9:25.3] Okay. So at least we don't have to waste.
+[9:28.0] Time deciding between the different.
+[9:29.4] Methods.
+[9:30.0] Yeah
+[9:30.4] That's right. Oh, and the other.
+[9:32.4] Requirement is the number of interviewees.
+[9:34.8] Not too many, I hope.
+[9:34.8] 10, 20.
+[9:38.1] Well, we have to do two groups.
+[9:40.1] Remember? And it looks like we have to interview 15 for each group.
+[9:45.4] That's 30 altogether. Then it's going to take ages.
+[9:49.6] Yes, but remember, we're working on this.
+[9:51.5] Together. So, we'll only have to do 15.
+[9:53.7] Each.
+[9:54.6] Okay. So, those are all the requirements.
+[9:57.7] Yes, looks like it.
+[9:57.7] So, first, which area are we going to choose?
+[10:01.7] My preference would be cinema since that's.
+[10:05.4] Where I spend most of my money.
+[10:07.5] I don't think that's such a good idea.
+[10:07.5] I don't think there are huge differences.
+[10:12.1] In the market there.
+[10:12.1] I mean, you get.
+[10:14.7] Young and old, male and female, rich and poor, all going to the same movies.
+[10:19.4] Yeah, maybe you're right.
+[10:19.4] Let's make it. Music, then
+[10:23.1] Right? So, what two groups will we.
+[10:26.2] Compare and contrast?
+[10:28.2] Male and female?
+[10:30.0] No. Most of my female friends like the same music as me.
+[10:32.4] Different age groups. Will be much more likely to show up.
+[10:36.5] Differences, I think.
+[10:39.4] Yeah, I suppose you're right again.
+[10:39.4] I'll. Take some notes, shall I?
+[10:41.3] So, age. Groups.
+[10:46.6] Well, what do you think?
+[10:46.6] Maybe 25 or under for one group and 45 or over for the other group.
+[10:52.7] That should show up.
+[10:54.8] Differences
+[10:55.8] Right? Okay, next. How about the kind of music they like?
+[11:00.1] Let's give them some.
+[11:01.8] Choices and then we can just tick boxes.
+[11:04.1] Okay, let's have pop, jazz, folk, easy.
+[11:08.3] Listening. What else?
+[11:11.2] Well, we should include classical.
+[11:11.2] Some. People like it, you know.
+[11:15.0] Okay. Okay. And then we should have how they listen to music.
+[11:19.9] The medium, right? Let's include radio.
+[11:23.0] CD, and then I guess there's TV.
+[11:23.0] What about concerts? You know, in pubs and halls.
+[11:28.9] Oh, yeah. We should include live music.
+[11:30.6] Of course.
+[11:31.2] Okay, we're on a roll now.
+[11:31.2] Next point. Could be about where they actually get.
+[11:35.4] Their music.
+[11:36.2] You mean like, do they buy it in music.
+[11:38.7] Shops or department stores?
+[11:40.3] Yes. Or download it from the internet.
+[11:42.4] Right. That could be for recorded music.
+[11:45.0] Then we need another section for live.
+[11:46.7] Music. Where do they go for that?
+[11:48.9] Okay. Let's say disco, pub, club.
+[11:51.8] Concert hall
+[11:52.6] Or opera house. And I guess we should include karaoke bars.
+[11:56.8] Not many of them in this city.
+[11:58.4] Okay, we'll leave that out then.
+[12:01.0] So, what's left to do?
+[12:03.0] That's it. Well, now we can make a time.
+[12:06.1] Scale for doing it.
+[12:10.9] # Exercise four
+[12:14.5] Good morning everyone. Last week we were looking at the hunter gatherers in Ireland across the Irish Sea from
+[12:20.7] England.
+[12:22.2] Today we're going to move on to the period between 4 and 6,000 years ago.
+[12:27.5] Known as the Neolithic period which is when a total farming economy was introduced in Ireland.
+[12:34.6] Now there are several hypotheses about the origins of the first Neolithic.
+[12:39.1] Settlers in Ireland. But most of these contain problems.
+[12:41.5] For instance, there. Are considerable archaeological.
+[12:46.2] Difficulties about the theory that they.
+[12:48.5] Came from England. The evidence doesn't.
+[12:51.0] Really add up. But there are even.
+[12:54.0] Greater practical problems about the theory that they came directly from Continental Europe.
+[12:57.6] For one thing, it's.
+[13:00.7] Not clear just how sufficient numbers of men and women could have been transported to Ireland to establish a
+[13:07.9] Viable population.
+[13:10.2] As you know, the huntergatherer economy.
+[13:12.8] Which existed beforehand was based on small scattered groups.
+[13:15.4] The farming. Economy would almost certainly have.
+[13:20.2] Required much larger communities to do.
+[13:22.6] All the work needed to plant and tend.
+[13:25.0] Sufficient crops to sustain them through.
+[13:27.0] The year.
+[13:29.3] The early farmers kept various animals.
+[13:31.6] Including cattle and sheep.
+[13:31.6] There's also. Evidence of pigs, but it is possible.
+[13:37.1] That these could have been descended.
+[13:38.6] From the native wild species.
+[13:41.4] Now we know from modern farming that if the level of breeding stock falls below.
+[13:46.3] About 300 females, the future of the species locally is at risk.
+[13:49.8] So we must. Assume that from the beginnings of Neolithic farming, the number of breeding sheep would have considerably.
+[13:59.0] Exceeded 300 and the national cattle.
+[14:01.9] Herd must have been of a similar size.
+[14:05.1] The question is how these were brought.
+[14:07.3] To the area and where they came from it's usually suggested that the Neolithic settlers used skincovered.
+[14:14.7] Boats to transport livestock, but this.
+[14:17.6] Method would have severely restricted.
+[14:19.3] The range of the colonizing fleets.
+[14:19.3] The sheer volume of animal transport.
+[14:24.4] Necessary means it's unlikely that this.
+[14:27.1] Livestock could have been brought from anywhere further than England.
+[14:31.7] What about crops? Well, two main serial.
+[14:35.2] Crops were introduced to Ireland during.
+[14:37.1] This time. wheat and barley, both in several varieties.
+[14:42.6] The main evidence for their presence.
+[14:44.7] Consists of impressions on pottery where.
+[14:47.7] A serial grain accidentally became.
+[14:49.9] Embedded in the surface of a pot before.
+[14:52.2] It was fired. The grain itself was destroyed by the firing, but it left an impression on the pot, which could be
+[14:59.2] Studied and identified by botonists.
+[15:07.4] Let's turn our attention now to the farming technology available at that.
+[15:11.1] Time. Before the serial crops could be planted, it would have been necessary to clear the forest and to break the ground.
+[15:18.4] By plowing. The stone blade of a plow.
+[15:21.8] Has been discovered during excavation in County Mayo in Western Ireland.
+[15:24.2] The body. Of the plow would have been of wood and could have been drawn by people, but
+[15:31.9] It's also likely that cattle were used.
+[15:35.4] Now, the cultivation of crops and the Husbandry of livestock brought about changes in people's lifestyle, such as
+[15:42.7] The type of shelters they made.
+[15:42.7] For one. Thing, instead of moving from place to place, they needed permanent dwellings.
+[15:51.4] The stone axes used to chop down trees.
+[15:53.9] To make these dwellings were far.
+[15:56.0] Superior to any that the stone age.
+[15:58.2] Hunter gatherers used.
+[16:01.0] To make the axes, sources of suitable.
+[16:03.4] Stone had to be found and systematically.
+[16:06.1] Exploited.
+[16:07.8] These so-called axe factories were really quaries rather than factories, as the manufacturer of the axes wasn't.
+[16:14.6] Regularly performed on the quarry site.
+[16:17.4] However, after the axe had been chipped.
+[16:19.8] Into shape, they needed water and sand.
+[16:22.6] For grinding and polishing.
+[16:22.6] So, a high. Mountain side wouldn't have been an appropriate place for this.
+[16:27.4] So, this. Final stage of the manufacturer must.
+[16:31.8] Have been carried out close to water.
+[16:34.3] And sure enough, there's ample evidence.
+[16:36.5] Of this at coastal sites.
+[16:39.8] Now, it's clear that these Neolithic.
+[16:41.7] Axes were transported all over Ireland.
+[16:44.6] As well as to Scotland and the south of England.
+[16:46.7] It's not really surprising that.
+[16:49.4] Axes from axe factories in England have.
+[16:52.0] Also been found in Ireland.
+[16:52.0] At the very. Least, this indicates that there was a link between the two islands during that.
+[16:59.3] Period.
+[17:01.1] One of the most useful innovations of the colonizers was pottery making, which was quite unknown to Irish.
+[17:07.0] Huntergatherers. The pottery was probably made by shaping clay into a ball with the hand and then hollowing it.
+[17:13.8] Until the walls were the right.
+[17:15.1] Thickness. After firing, the outside was often polished.
+[17:18.5] This would have helped.
+[17:20.6] The pots to retain water as they weren't.
+[17:22.7] Glazed. Now, we know that the clay used.
+[17:25.9] Usually came from local sources, which suggests that manufacturer was on a fairly small scale, even though.
+[17:33.0] Thousands of fragments are usually found.
+[17:34.9] At Neolithic sites.
+[17:37.5] In the course of time, decoration began.
+[17:39.7] To appear. At first, this looked like a series of stitches and was just around.
+[17:44.2] The tops of the pots.
+[17:44.2] This could have. Been an imitation of earlier vessels, which were made of leather sewn onto wood.
+[17:49.4] Then eventually. Pots with decoration all over.
+[17:59.4] # Exercise five
+[18:03.1] Conference center reservations. Good.
+[18:05.2] Morning.
+[18:06.3] Hi, I'm interested in the computing.
+[18:09.0] Conference next month.
+[18:10.6] Future directions in computing.
+[18:12.8] Yes, that's right. Could I ask you a few.
+[18:15.8] Questions about it?
+[18:17.3] Of course.
+[18:18.5] Okay. I know the conference is for 3.
+[18:21.9] Days, but actually I want to attend on the Friday and Saturday only.
+[18:24.6] Will that. Work out to be any cheaper?
+[18:29.4] Let me have a look.
+[18:32.0] Well, you could register for the two.
+[18:34.1] Days separately, but that wouldn't.
+[18:36.1] Actually save you very much as it still.
+[18:38.4] Costs £35 for each day.
+[18:38.4] In fact, if you.
+[18:42.3] Could register for the 3 days, you also.
+[18:44.8] Get an invitation to a free dinner on the Saturday night.
+[18:46.6] So, that's probably. The better option.
+[18:50.2] Right? I'll do that.
+[18:50.2] How much will the fees be in that case?
+[18:55.0] It's £75.
+[18:57.0] All right. I'd like to register for the full 3 days.
+[18:59.8] Now, can I pay that by credit card?
+[19:04.1] I'm afraid not. You'll have to send a check to us or you can pay at the conference office.
+[19:09.8] Fine. So, it's probably easiest if I pay.
+[19:12.8] By check. Now then, what else do I need.
+[19:16.5] To arrange, right? How about accommodation?
+[19:19.5] I guess that's not.
+[19:22.1] Included in the price.
+[19:23.6] No, I'm sorry it's not, but we do have a few rooms available for delegates at the conference center if you'd like.
+[19:28.2] Those are very cheap, but if you're.
+[19:32.2] Interested, you'll need to book soon.
+[19:33.9] Because there's always a heavy demand.
+[19:35.4] For them.
+[19:36.9] They are only £15 per night, but they.
+[19:39.7] Are very basic and you'd have to get.
+[19:41.7] Your own breakfast because they don't.
+[19:43.8] Provide you with that.
+[19:43.8] But it's very. Convenient because it's in the same.
+[19:48.1] Building as the conference rooms.
+[19:49.8] Uh-huh.
+[19:50.8] Or there's a very reasonable guest house.
+[19:52.6] Which is £25 per night.
+[19:52.6] And I think that.
+[19:56.1] Includes your breakfast.
+[19:57.6] Is it close to the conference center?
+[20:00.2] It would be about a 10-minute walk away.
+[20:02.6] From here.
+[20:03.8] I see. That sounds quite reasonable.
+[20:09.8] The details are all in our conference.
+[20:11.7] Pack which I'll send you.
+[20:13.4] Great. Thanks. That'll be very useful.
+[20:16.6] Oh, and can you also send me an application form?
+[20:20.2] Of course. I'll get that in the post.
+[20:22.5] Straight away. Is there anything else?
+[20:25.4] Yes, actually. Can you tell me where.
+[20:28.5] Exactly the conference center is?
+[20:28.5] Well. It's on South Park Road and it's right.
+[20:33.8] At the end of the road next to the library.
+[20:35.3] It's a 10-minute taxi ride from the station and will cost you £5.
+[20:41.3] Otherwise, you can take the bus which runs every half an hour from the station.
+[20:44.6] That's the 21A and it brings.
+[20:47.6] You straight to the conference center.
+[20:49.8] Right. Got that.
+[20:54.4] # Exercise six
+[20:58.0] Good morning and welcome everybody.
+[20:58.0] I'm.
+[21:00.8] Jenny Stewart and I'm the staff manager.
+[21:03.8] Here at the exhibition center.
+[21:03.8] We're. Expecting this year's international.
+[21:07.9] Travel exhibition to attract over 10,000.
+[21:10.8] Visitors a day, ladies and gentlemen.
+[21:13.0] And you are among the 200 extra staff.
+[21:16.3] Recruited to help look after them.
+[21:16.3] Now. To help things run smoothly, we have.
+[21:21.4] Divided you into four teams.
+[21:21.4] The blue. Team, the green team, the red team, and the yellow team.
+[21:26.8] So, first I'll explain.
+[21:30.2] How the teams are divided up, and then.
+[21:33.0] We'll be giving you color-coded t-shirts.
+[21:35.4] So we can identify you more easily.
+[21:38.2] First of all, those who will be looking.
+[21:40.5] After the phones and handling all calls.
+[21:43.4] Regarding the exhibition, you will be on the red team.
+[21:45.9] Now, we've also put the entrance staff on the red team, and you'll be stamping the entrance tickets.
+[21:53.4] And giving out publicity leaflets.
+[21:53.4] Okay?
+[21:56.5] Those of you involved in distributing.
+[21:58.5] Entrance tickets will be on the yellow.
+[22:00.2] Team, and we've also put those of you.
+[22:02.6] Who will be staffing the information.
+[22:04.3] Booths around the conference center on the yellow team.
+[22:06.3] So, you'll be getting a yellow t-shirt.
+[22:08.7] Now, most of the Hospitality staff have been put in the blue team.
+[22:14.4] So, the chefs among you and the kitchen hands will all need a blue.
+[22:19.5] T-shirt, but because of the sheer.
+[22:22.0] Numbers, all waiting staff will be on the yellow team, and this includes the bar staff among you.
+[22:27.1] Those who will be monitoring and directing the traffic in the car parks are on the green team, so.
+[22:35.5] You'll need to get a green t-shirt.
+[22:38.4] This year we've also employed a considerable number of attendants to direct the human traffic around the conference center.
+[22:44.4] Now you'll be working.
+[22:47.2] In the exhibition hall at all times.
+[22:50.1] Giving directions and generally helping.
+[22:52.7] People whenever you can.
+[22:52.7] And you will be in the red team.
+[22:55.4] So please collect a red.
+[22:58.4] T-shirt.
+[23:01.8] Right now that everyone knows what team.
+[23:04.6] They're in. We'll get on with the Orientation and training program.
+[23:06.5] And first I'll run through the rest of today's program which you should have in front of you so that you can get a
+[23:15.7] General idea of what else is in store.
+[23:17.5] Today. This introduction finishes at 9:30 and then you'll be hearing from an Smith.
+[23:24.4] An works in the accounts.
+[23:26.7] Department on level two and she looks.
+[23:29.9] After all temporary staff and so she is the person to see if you have any.
+[23:35.8] Problems regarding pay. And will be explaining when and how you.
+[23:41.0] Get this. She will also be handing out.
+[23:43.7] Your tax forms and I will just stress.
+[23:47.2] That all tax forms must be completed and returned to an before your pay can be processed.
+[23:55.5] Following Anne's talk, you'll hear from Peter Chin, our conference manager, and he will be going over a plan of the
+[24:03.5] Conference center with you, which will help you to orient yourselves.
+[24:05.4] He will also go through the security.
+[24:09.9] Arrangements with you and show you the fire exits.
+[24:12.8] Then at 10:30, there will be a coffee break in the staff canteen.
+[24:19.7] Which is located down on the ground.
+[24:21.7] Floor. Now, after the break, we'll be moving to a different location for a video presentation.
+[24:28.4] So, instead of coming back here, we'd like you all to go to lecture room 311.
+[24:37.6] You'll find it on this same level just.
+[24:40.5] Down the hall. And there you will be shown a video about important safety.
+[24:45.4] Issues in the workplace called safety at work.
+[24:48.6] We'll finish off the morning with lunch, which should give everyone a chance to meet and get to know each.
+[24:55.8] Other. And we'll be serving you a buffet.
+[24:58.2] Lunch in the main hall, which is on the first floor from 12:00.
+[25:03.7] After lunch, you'll be divided up into your teams to meet your team leaders.
+[25:08.8] And we're hoping to be all finished by three.
+[25:10.9] So, I won't delay you any longer.
+[25:13.8] And I'll hand over.
+[25:18.7] # Exercise 7
+[25:22.3] Good afternoon. Can I help you?
+[25:26.5] Transferred to the School of Education.
+[25:29.1] And I'd like information about joining.
+[25:31.8] The library.
+[25:32.9] Well, the School of Education has.
+[25:34.9] Libraries on two sites as I'm sure you.
+[25:37.0] Know. This one here is the forom site.
+[25:40.1] And the other is on Castle Road.
+[25:42.9] And is there any difference between the two libraries?
+[25:46.6] Not in terms of their facilities.
+[25:46.6] Access. To online databases and the internet is available at both sites and each site.
+[25:55.0] Has a range of reference materials on education.
+[25:58.6] Oh yes, I see.
+[25:58.6] But the Castle Road site.
+[26:02.3] Has books on the sociology of education.
+[26:05.4] And a collection of textbooks and teaching resources covering most of the subjects taught in secondary schools.
+[26:12.6] Ah, right. But I'm training to be a primary teacher, so I need to look at materials for the 5 to 11 age group.
+[26:21.8] Then you've come to the right place.
+[26:21.8] At forom, we hold material relating to primary education as well as special.
+[26:28.8] Needs. But of course, you will need to Familiarize yourself with both sites to make the most of our resources.
+[26:36.1] You haven't mentioned periodicals.
+[26:39.2] Are they held at both sites?
+[26:41.1] Current issues, yes. But if you want to look at back issues, you'll need to use.
+[26:45.8] The CDROM databases which are held here.
+[26:48.3] At Fordon.
+[26:49.4] I see. Now, about borrowing books.
+[26:49.4] I'm. Living out of town, so I'm hoping I can borrow quite a few items and cut down on
+[26:59.8] The number of trips I have to make.
+[27:02.1] Right. Well, members can borrow two.
+[27:04.2] Books at a time from each site.
+[27:06.5] Only two from each site, but that's four.
+[27:10.5] Altogether.
+[27:11.4] Oh, I see. And how long can I hang on to them for?
+[27:15.5] The borrowing period is 1 month, but of course, books can be renewed.
+[27:18.1] You can renew any item a maximum of three times.
+[27:23.9] Do I have to come to the library to do.
+[27:26.0] That?
+[27:26.5] No, you can do it by telephone or email.
+[27:29.2] But you can't renew overdue books this.
+[27:31.6] Way. Only before or on the due date.
+[27:34.8] Stamped in the book.
+[27:34.8] We'll need your full name, your borrower number, and the name of the site library you borrowed.
+[27:41.8] The items from so, theoretically, I can borrow books.
+[27:46.2] For up to 3 months.
+[27:46.2] Is that what you're.
+[27:48.9] Saying? Yes, provided they're not.
+[27:50.6] Recalled.
+[27:52.2] So, what happens then?
+[27:54.2] Well, sometimes an item is requested by another borrower, in which case we'd.
+[27:58.6] Send you a letter and you'd have to return the book within seven working.
+[28:02.3] Days. Don't forget, we're closed on Sundays.
+[28:05.6] Okay.
+[28:08.5] I expect it'll take me a while to find.
+[28:10.8] What I need. There's such a lot here.
+[28:13.7] Yes, there is. But if you need help.
+[28:15.9] Getting started, this term we're running.
+[28:18.2] Three study skills workshops.
+[28:20.5] Oh, what are they on?
+[28:23.3] Uh, let me see.
+[28:23.3] The first one's on resources.
+[28:26.2] Um, yes, here it is.
+[28:26.2] How to use the library's resources.
+[28:30.3] That. Includes everything, not just the print.
+[28:34.4] And technical resources.
+[28:36.1] That sounds useful.
+[28:38.0] Is there anything on using the internet?
+[28:40.8] Uh, let's see. The one on the internet.
+[28:44.2] For beginners was last term.
+[28:44.2] This term. It's finding research materials online.
+[28:50.6] That sounds interesting too.
+[28:54.0] What's the last one?
+[28:55.8] It's a workshop on dissertations.
+[28:58.7] What do you mean?
+[28:58.7] How to write one?
+[29:01.3] Uh, no. It's more to do with academic.
+[29:03.8] Writing conventions. You know, writing a Bibliography and how to refer to sources.
+[29:09.0] In your text, that sort of thing.
+[29:11.3] Anyway, here's a leaflet with information about all three.
+[29:13.1] Oh.
+[29:15.0] Thanks a lot. That'll be very useful.
+[29:17.8] You're welcome.
+[29:22.0] # Exercise 8
+[29:25.6] Well, most people think that lions only.
+[29:28.2] Come from Africa. And you would be Forgiven for thinking this because in fact, most lions do come from Africa.
+[29:35.3] But this hasn't always been the case.
+[29:38.1] If we go back 10,000 years, we would find that there were lions roaming vast.
+[29:42.6] Sections of the globe.
+[29:42.6] But now. Unfortunately, only very small sections.
+[29:47.9] Of the lion's former habitat remain.
+[29:51.8] My particular interest is Asiatic lions.
+[29:55.0] Which are a subspecies of African lions.
+[29:57.9] It's almost 100,000 years since the Asiatic lion split off and developed as a subspecies.
+[30:03.9] At one time, the Asiatic line was living.
+[30:06.2] As far west as Greece, and they were found from there in a band that spread.
+[30:10.7] East through various countries of the middle East all the way to India.
+[30:15.5] In museums, you can now see Greek coins.
+[30:18.6] That have clear images of the Asiatic.
+[30:20.8] Lion on them. Most of them are dated at around 500 BC.
+[30:26.4] However, Europe saw its last Asiatic.
+[30:28.7] Lion roaming free 2,000 years ago.
+[30:28.7] Over. The next 1900 years, the numbers of Asiatic lions in the other areas.
+[30:36.6] Declined steadily. But it was only in the 19th century that they disappeared.
+[30:41.5] From everywhere but India.
+[30:44.5] So, how can you tell an Asiatic lion.
+[30:47.1] From an African lion with which you're.
+[30:49.2] Probably more familiar?
+[30:51.8] Well, in general, Asiatic lions are not.
+[30:55.1] As big as African lions.
+[30:55.1] The color is more or less the same, but the appearance of the mane is different.
+[31:01.8] That's the hair around the lion's face.
+[31:03.8] And neck. The Asiatic lion's mane is Noticeably shorter than the African.
+[31:09.0] Lions. Asiatic lions also have a long.
+[31:12.4] Fold of skin on their unders sides.
+[31:14.6] Whereas not many African lions have.
+[31:16.6] This.
+[31:22.3] Well, I'd like to talk to you now about the G sanctuary in India.
+[31:24.6] That's where. I've just come back from the sanctuary was established.
+[31:31.1] Specifically to protect the Asiatic.
+[31:33.0] Lion. It's 1,450. Km in area and most of it is forest.
+[31:39.9] There are now around 300 Asiatic lions.
+[31:42.6] In India and almost all of them are in the sanctuary.
+[31:47.6] But despite living in a sanctuary, which makes them safe from hunters, they still.
+[31:52.1] Face a number of problems that threaten.
+[31:53.8] Their survival.
+[31:55.8] One of these is the everpresent danger.
+[31:57.6] Of disease.
+[31:59.4] This is what killed more than a third of Africa's Serenetti lions in 1994 and people are fearful that something.
+[32:06.6] Similar could happen in the G sanctuary.
+[32:08.9] And kill off many of the Asiatic lions.
+[32:11.1] There.
+[32:13.6] India's lions are particularly.
+[32:15.4] Vulnerable because they have a limited.
+[32:17.2] Gene pool.
+[32:19.4] The reason for this is interesting.
+[32:19.4] It's. Because all of them are descended from a few dozen lions that were saved by a Prince who took a particular interest in
+[32:28.4] Them. He was very wealthy and he managed.
+[32:31.7] To protect them. Otherwise, they'd.
+[32:33.8] Probably have died out completely.
+[32:36.8] When you see the Asiatic lion in India.
+[32:39.4] What you sense is enormous vitality.
+[32:42.6] They're very impressive beasts and you.
+[32:44.6] Would never guess that they have this.
+[32:46.2] Vulnerability when you look at them.
+[32:49.2] The Asiatic lions don't have the ghost.
+[32:51.4] Sanctuary to themselves, I should add.
+[32:53.6] They actually share it with about 2,000.
+[32:56.2] Farmers. A significant proportion of the lion's diet is made up of the livestock.
+[33:01.4] Of these farmers, goats, chickens, and so on.
+[33:04.0] As much as a third, in fact.
+[33:04.0] And they've even been known to attack.
+[33:09.0] Humans, especially in times of drought.
+[33:13.3] One final piece of interesting.
+[33:15.0] Information. In ancient India, one of the greatest tests of leadership for a man was to fight a lion.
+[33:19.8] Now, it seems. In modern India, it will be a great test.
+[33:25.6] To see if the lion can be saved.
+[33:28.5] I'm sure this is something that all of you will share concern for, too

@@ -1,0 +1,46 @@
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".validate": "newData.hasChildren(['xp','upd']) && newData.child('xp').isNumber() && newData.child('xp').val() >= 0 && newData.child('xp').val() <= 10000000"
+      }
+    },
+    "leaderboard": {
+      ".read": true,
+      ".indexOn": [
+        "xp"
+      ],
+      "$uid": {
+        ".write": "auth != null && auth.uid === $uid",
+        ".validate": "newData.hasChildren(['n','xp','st','lv','t'])",
+        "n": {
+          ".validate": "newData.isString() && newData.val().length <= 16"
+        },
+        "xp": {
+          ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 10000000 && (!data.exists() ? newData.val() <= 50000 : (newData.val() >= data.val() && newData.val() - data.val() <= 500 + 15 * (now - data.parent().child('t').val()) / 1000))"
+        },
+        "st": {
+          ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 100000"
+        },
+        "lv": {
+          ".validate": "newData.isNumber() && newData.val() >= 1 && newData.val() <= 1000"
+        },
+        "t": {
+          ".validate": "newData.val() === now"
+        },
+        "$other": {
+          ".validate": false
+        }
+      }
+    },
+    "names": {
+      "$k": {
+        ".read": true,
+        ".write": "auth != null && (!data.exists() || data.val() === auth.uid) && (!newData.exists() || newData.val() === auth.uid)",
+        ".validate": "$k.length <= 256 && newData.isString() && newData.val().length <= 128"
+      }
+    }
+  }
+}
