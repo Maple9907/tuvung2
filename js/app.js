@@ -357,6 +357,8 @@ function msState(s){/* s = e.data của onStateChange */
  if(!('mediaSession'in navigator))return;
  if(!MSA){MSA=new Audio(silentWav());MSA.loop=true}
  if(s==1||s==3){MSA.play().catch(()=>{});navigator.mediaSession.playbackState='playing';msMeta()}
+ else if(s==2&&document.hidden&&!userPaused){/* YouTube tự pause lúc ẩn trang: GIỮ audio im lặng để trang không bị đóng băng, rồi bật lại video */
+  MSA.play().catch(()=>{});[0,400,1200,3000].forEach(ms=>setTimeout(()=>{try{if(document.hidden&&!userPaused&&NP&&NP.getPlayerState()==2)NP.playVideo()}catch{}},ms))}
  else if(s==0||s==2||s==5){MSA.pause();navigator.mediaSession.playbackState='paused'}}
 function msPos(){/* mỗi ~1 giây: cập nhật thanh tiến trình trên thông báo */
  if(!('mediaSession'in navigator)||!NP||!NP.getCurrentTime||Date.now()-msPT<1000)return;msPT=Date.now();
@@ -377,10 +379,8 @@ msInit();
 document.addEventListener('visibilitychange',()=>{
  if(!NP||tab!='nghe')return;
  if(document.hidden){
-  [300,1000,2000].forEach(ms=>setTimeout(()=>{try{if(document.hidden&&!userPaused&&NP&&NP.getPlayerState()==2)NP.playVideo()}catch{}},ms));
-  try{NP.setPlaybackQuality('tiny')}catch{}
- }else{
-  try{NP.setPlaybackQuality(NVP&&NVP.q!=='auto'?NVP.q:'default')}catch{}
+  if(MSA&&!userPaused)MSA.play().catch(()=>{});
+  [300,1000,2000,4000,8000].forEach(ms=>setTimeout(()=>{try{if(document.hidden&&!userPaused&&NP&&NP.getPlayerState()==2)NP.playVideo()}catch{}},ms));
  }});
 V.nghe=()=>{vfsOff();NVP&&NVP.destroy();NVP=null;try{NP&&NP.destroy()}catch{}NP=null;NPLs=null;NCl=-1;NCal=false;msStop();
  h(`<div class="vid"><div class="vb" id="vb"><div id="yt"></div><div class="ye m" id="ye">⏳ Đang tải video…</div></div></div>
